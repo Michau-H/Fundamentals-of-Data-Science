@@ -7,7 +7,7 @@ However, due to the lack of a supported graphics card, **I used Google Colab wit
 
 ---
 
-## 📌 What Was Done
+## What Was Done
 
 - **Data summary**:  
   Basic statistics were collected and class distributions were visualized. Example images were displayed.
@@ -32,6 +32,6 @@ However, due to the lack of a supported graphics card, **I used Google Colab wit
 
 ---
 
-## 🛠️ Tools
+## Tools
 
 Python, NumPy, Pandas, Scikit-learn, Matplotlib, t-SNE, PCA, UMAP, CUDA
